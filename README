@@ -1,0 +1,15 @@
+Hello!
+In this project 
+We want to know your knowledge about logic
+
+You are going to program a little game, THE HANG-MAN about programming languages
+
+Requirements
+
+Good information and practices 
+
+Using Python
+
+Using a library called 'Random'
+
+You have 5 attempts in the game 
